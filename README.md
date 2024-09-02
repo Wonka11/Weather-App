@@ -1,1 +1,3 @@
 # Weather-App
+
+To run the weather app project in Visual Studio Code (VSCode), create a new folder for the project and open it in VSCode. Within the folder, create three files: index.html, style.css, and script.js. Populate index.html with basic HTML for the app interface, style.css with styling rules, and script.js with JavaScript code to fetch and display weather data from the OpenWeatherMap API. Install the Live Server extension in VSCode to preview the app in a browser. Test the app by entering a city name and ensure weather details are correctly displayed. Note that the API key in script.js should be replaced with a valid key, and for production, consider securing the key and enhancing error handling.
